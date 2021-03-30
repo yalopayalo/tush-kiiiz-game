@@ -1,4 +1,4 @@
 const imgEl = document.querySelector('img');
 imgEl.addEventListener('mouseenter', function(event) {
-imgEl.src = "meaning-15.jpg"
+imgEl.src = "meaning-05.jpg"
 });
